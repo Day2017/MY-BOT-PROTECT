@@ -150,10 +150,12 @@ Changing
  105) Clone:on
  106) Clone:on @
  107) Updstatus
- 108) Update pp
- 109) Copy pic:on
- 110) Copy pic:on @
- 111) Update rname
- 112) Update sname
- 113) Welcomemessage update
+ 108) Senpic
+ 109) Update profilepic
+ 110) Update pp
+ 111) Copy pic:on
+ 112) Copy pic:on @
+ 113) Update rname
+ 114) Update sname
+ 115) Welcomemessage update
 ```
