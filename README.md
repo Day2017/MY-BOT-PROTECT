@@ -1,4 +1,4 @@
-```
+```#private MY BOT POTECT
 ---------------ʰᵉˡᵖ ᶜᵒᶰᵗʳᵒˡ---------------
 
 Commands Chatbot:
